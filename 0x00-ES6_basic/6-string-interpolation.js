@@ -1,3 +1,4 @@
+/* eslint export function getSanFranciscoDescription */
 export default function getSanFranciscoDescription() {
   const year = 2017;
   const budget = {
