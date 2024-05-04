@@ -6,9 +6,9 @@ This repository explores features of ECMAScript 6 (ES6), also known as Harmony o
 
 A brief explanation of the specific ES6 feature you're focusing on in this repository. This could be Arrow Functions, Template Literals, Destructuring, or any other ES6 concept.
 
-Getting Started
+<h2>Getting Started</h2>
 
-Prerequisites:
+<h3>Prerequisites:</h3>
 Node.js (version specified)
 npm (version specified) (or yarn)
 Installation:
@@ -29,7 +29,7 @@ npm install
 
 Use code with caution.
 content_copy
-Usage
+<h2>Usage</h2>
 
 Instructions on how to run the code or examples within the repository.
 This might involve running a script or opening the files in a web browser.
